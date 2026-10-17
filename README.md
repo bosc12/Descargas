@@ -77,7 +77,9 @@ reemplaza la ayuda profesional. En Panamá, la línea **147** atiende gratis las
 <!-- descargas:pensamientos-felices:inicio -->
 | Sistema | Descarga | Versión |
 |---|---|---|
-| ⏳ | Se está preparando la primera versión. | — |
+| 🪟 Windows 10 / 11 | [Pensamientos-Felices-0.9.0-windows-setup.exe](https://github.com/bosc12/Descargas/releases/download/pensamientos-felices-v0.9.0/Pensamientos-Felices-0.9.0-windows-setup.exe) | 0.9.0 |
+| 🍎 Mac (Apple M1 o más nuevo) | [Pensamientos-Felices-0.9.0-mac-arm64.dmg](https://github.com/bosc12/Descargas/releases/download/pensamientos-felices-v0.9.0/Pensamientos-Felices-0.9.0-mac-arm64.dmg) | 0.9.0 |
+| 🤖 Android | [Pensamientos-Felices-0.9.0-android.apk](https://github.com/bosc12/Descargas/releases/download/pensamientos-felices-v0.9.0/Pensamientos-Felices-0.9.0-android.apk) | 0.9.0 |
 <!-- descargas:pensamientos-felices:fin -->
 
 [Novedades y versiones anteriores](https://github.com/bosc12/Descargas/releases?q=pensamientos-felices&expanded=true)
