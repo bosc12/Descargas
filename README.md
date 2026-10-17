@@ -16,6 +16,7 @@
 | | App | Para | Qué es |
 |:-:|---|---|---|
 | <img src="iconos/grayskull-garage.png" width="40" /> | [**Grayskull Garage**](#grayskull-garage) | 🪟 Windows · 🍎 Mac | Inventario de colecciones: Hot Wheels, He-Man y lo que coleccionas |
+| <img src="iconos/pensamientos-felices.png" width="40" /> | [**Pensamientos Felices**](#pensamientos-felices) | 🪟 Windows · 🍎 Mac · 🤖 Android | Juego sobre las distintas caras de la depresión (para adultos) |
 
 <!-- Nuevas apps: agrega una fila aquí y una sección abajo (ver PUBLICAR.md). -->
 
@@ -51,6 +52,38 @@ Todo se guarda en tu PC: sin nube y sin cuentas.
 **Primer uso:** al abrirla aparece un ícono junto al reloj y se abre el navegador para crear la cuenta del dueño. Para
 entrar desde el celular, usa la opción *“Abrir en el celular (código QR)”* del ícono. Si Windows pregunta si la app puede
 usar la red, acepta en **redes privadas**.
+
+---
+
+## Pensamientos Felices
+
+<img src="iconos/pensamientos-felices.png" width="96" align="right" />
+
+**Un juego sobre las distintas caras de la depresión.** No busca deprimir: busca que se entienda que la depresión no
+siempre se ve como uno espera. Son cinco días en la vida de alguien que trabaja en una oficina, maneja dos horas de
+tranque cada mañana y llega a su casa con la cabeza llena.
+
+- 🧠 Una barra de estrés que sube sola, y respiros pequeños que de verdad ayudan.
+- 🚗 El tranque de cada mañana, rompecabezas en el carro y un sueño donde hay que sobrevivir.
+- 💬 Conversaciones con los compañeros de la oficina: preguntar abre, consolar cierra.
+- 🎵 Música original: «Lo cool de ser raros» de Tw-Rapsody, y piano de BOSG.
+- 🎚️ Tres niveles: fácil, normal y difícil.
+- 🔒 Lo que escribes con tus palabras se queda en tu equipo; no se envía a ningún lado.
+
+**Es para adultos:** trata temas sensibles (depresión, agotamiento, aislamiento, pensamientos intrusivos). No
+reemplaza la ayuda profesional. En Panamá, la línea **147** atiende gratis las 24 horas (también por WhatsApp al
+6694-2747).
+
+<!-- descargas:pensamientos-felices:inicio -->
+| Sistema | Descarga | Versión |
+|---|---|---|
+| ⏳ | Se está preparando la primera versión. | — |
+<!-- descargas:pensamientos-felices:fin -->
+
+[Novedades y versiones anteriores](https://github.com/bosc12/Descargas/releases?q=pensamientos-felices&expanded=true)
+
+**Primer uso:** el juego empieza con un aviso de contenido y te deja elegir si quieres que te haga preguntas
+personales. Se juega con teclado o con el dedo. En Android va en horizontal y funciona sin internet.
 
 ---
 
