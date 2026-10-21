@@ -43,8 +43,8 @@ Todo se guarda en tu PC: sin nube y sin cuentas.
 <!-- descargas:grayskull-garage:inicio -->
 | Sistema | Descarga | Versión |
 |---|---|---|
-| 🪟 Windows 10 / 11 | [Grayskull-Garage-1.0.0-windows-setup.exe](https://github.com/bosc12/Descargas/releases/download/grayskull-garage-v1.0.0/Grayskull-Garage-1.0.0-windows-setup.exe) | 1.0.0 |
-| 🍎 Mac (Apple M1 o más nuevo) | [Grayskull-Garage-1.0.0-mac-arm64.dmg](https://github.com/bosc12/Descargas/releases/download/grayskull-garage-v1.0.0/Grayskull-Garage-1.0.0-mac-arm64.dmg) | 1.0.0 |
+| 🪟 Windows 10 / 11 | [Grayskull-Garage-1.1.0-windows-setup.exe](https://github.com/bosc12/Descargas/releases/download/grayskull-garage-v1.1.0/Grayskull-Garage-1.1.0-windows-setup.exe) | 1.1.0 |
+| 🍎 Mac (Apple M1 o más nuevo) | [Grayskull-Garage-1.1.0-mac-arm64.dmg](https://github.com/bosc12/Descargas/releases/download/grayskull-garage-v1.1.0/Grayskull-Garage-1.1.0-mac-arm64.dmg) | 1.1.0 |
 <!-- descargas:grayskull-garage:fin -->
 
 [Novedades y versiones anteriores](https://github.com/bosc12/Descargas/releases?q=grayskull-garage&expanded=true)
