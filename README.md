@@ -16,7 +16,7 @@
 | | App | Para | Qué es |
 |:-:|---|---|---|
 | <img src="iconos/grayskull-garage.png" width="40" /> | [**Grayskull Garage**](#grayskull-garage) | 🪟 Windows · 🍎 Mac | Inventario de colecciones: Hot Wheels, He-Man y lo que coleccionas |
-| <img src="iconos/pensamientos-felices.png" width="40" /> | [**Pensamientos Felices**](#pensamientos-felices) | 🪟 Windows · 🍎 Mac · 🤖 Android | Juego sobre las distintas caras de la depresión (para adultos) |
+| <img src="iconos/pensamientos-felices.png" width="40" /> | [**Pensamientos Felices**](#pensamientos-felices) | 🪟 Windows · 🍎 Mac | Juego sobre las distintas caras de la depresión (para adultos) |
 
 <!-- Nuevas apps: agrega una fila aquí y una sección abajo (ver PUBLICAR.md). -->
 
@@ -79,13 +79,12 @@ reemplaza la ayuda profesional. En Panamá, la línea **147** atiende gratis las
 |---|---|---|
 | 🪟 Windows 10 / 11 | [Pensamientos-Felices-0.9.0-windows-setup.exe](https://github.com/bosc12/Descargas/releases/download/pensamientos-felices-v0.9.0/Pensamientos-Felices-0.9.0-windows-setup.exe) | 0.9.0 |
 | 🍎 Mac (Apple M1 o más nuevo) | [Pensamientos-Felices-0.9.0-mac-arm64.dmg](https://github.com/bosc12/Descargas/releases/download/pensamientos-felices-v0.9.0/Pensamientos-Felices-0.9.0-mac-arm64.dmg) | 0.9.0 |
-| 🤖 Android | [Pensamientos-Felices-0.9.0-android.apk](https://github.com/bosc12/Descargas/releases/download/pensamientos-felices-v0.9.0/Pensamientos-Felices-0.9.0-android.apk) | 0.9.0 |
 <!-- descargas:pensamientos-felices:fin -->
 
 [Novedades y versiones anteriores](https://github.com/bosc12/Descargas/releases?q=pensamientos-felices&expanded=true)
 
 **Primer uso:** el juego empieza con un aviso de contenido y te deja elegir si quieres que te haga preguntas
-personales. Se juega con teclado o con el dedo. En Android va en horizontal y funciona sin internet.
+personales. Se juega con teclado y mouse.
 
 ---
 
