@@ -79,6 +79,7 @@ reemplaza la ayuda profesional. En Panamá, la línea **147** atiende gratis las
     <img src="https://img.youtube.com/vi/iuBNplnj8MQ/maxresdefault.jpg" alt="Ver el tráiler de Pensamientos Felices" width="560" />
   </a>
   <br/>▶️ <a href="https://www.youtube.com/watch?v=iuBNplnj8MQ"><strong>Ver el tráiler</strong></a>
+  &nbsp;·&nbsp; 🕹️ <a href="https://bosg21.itch.io/pensamientos-felices"><strong>También en itch.io</strong></a>
 </p>
 
 <!-- descargas:pensamientos-felices:inicio -->
