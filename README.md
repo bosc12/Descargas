@@ -74,6 +74,13 @@ tranque cada mañana y llega a su casa con la cabeza llena.
 reemplaza la ayuda profesional. En Panamá, la línea **147** atiende gratis las 24 horas (también por WhatsApp al
 6694-2747).
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=iuBNplnj8MQ">
+    <img src="https://img.youtube.com/vi/iuBNplnj8MQ/maxresdefault.jpg" alt="Ver el tráiler de Pensamientos Felices" width="560" />
+  </a>
+  <br/>▶️ <a href="https://www.youtube.com/watch?v=iuBNplnj8MQ"><strong>Ver el tráiler</strong></a>
+</p>
+
 <!-- descargas:pensamientos-felices:inicio -->
 | Sistema | Descarga | Versión |
 |---|---|---|
